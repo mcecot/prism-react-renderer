@@ -24,7 +24,6 @@ module.exports = {
   less: true,
   makefile: true,
   markdown: true,
-  none: true,
   objectivec: true,
   ocaml: true,
   python: true,
