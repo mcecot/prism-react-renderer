@@ -22,6 +22,7 @@ declare module "prism-react-renderer" {
     | "less"
     | "makefile"
     | "markdown"
+    | "none"
     | "objectivec"
     | "ocaml"
     | "python"
